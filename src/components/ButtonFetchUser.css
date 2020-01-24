@@ -1,0 +1,15 @@
+.buttonUsers {
+  background-color: white;
+  color: gray;
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  display: inline-block;
+  cursor: pointer;
+  outline: 0;
+  transition: 0.2s;
+}
+.buttonUsers:hover {
+  background-color: gray;
+  color: white;
+}

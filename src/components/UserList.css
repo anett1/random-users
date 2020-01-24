@@ -1,0 +1,10 @@
+.user {
+  text-align: center;
+}
+.user div {
+  padding-top: 10px;
+  border-bottom: 1px solid gray;
+}
+.divImage {
+  border-radius: 50%;
+}
